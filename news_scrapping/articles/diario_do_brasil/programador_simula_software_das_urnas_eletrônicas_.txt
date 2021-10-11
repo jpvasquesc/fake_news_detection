@@ -1,0 +1,9 @@
+Programador simula software das urnas eletrônicas e mostra possível vulnerabilidade do sistema
+Há quem defenda (com unhas e dentes) que o sistema de votação brasileiro é um dos mais seguros do mundo.
+Vários ministros de tribunais superiores não aceitam sequer críticas sobre as urnas eletrônicas.
+A verdade é que diversos especialistas na área de T.I. já demonstraram por A+B que qualquer sistema eletrônico pode ser burlado.
+Um técnico em programação decidiu gravar um vídeo didático e usou uma linguagem bem simples para que todos os brasileiros possam entender o que se passa por trás de um programa de registro e contagem de votos.
+O vídeo é um pouco longo (tem 8 minutos de duração), mas vale a pena dar uma olhadinha!
+leia também:
+Hacker de 19 anos provou que urnas eletrônicas são facilmente fraudáveis
+Ex-funcionário da NASA confessa para juiz que fraudou urnas eletrônicas

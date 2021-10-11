@@ -1,0 +1,64 @@
+O que sabemos sobre reinfecções por coronavírus
+RESUMO
+ Algumas pessoas que se recuperaram do COVID-19 podem contrair uma infecção novamente.  Um novo estudo descobriu que um homem teve um caso grave de COVID-19 em abril passado e um caso leve 4 meses depois.  Agora, novas variantes do SARS-CoV-2 surgiram e podem contornar a proteção imunológica que as pessoas ganham quando lutam contra o vírus com sucesso. 
+Fonte: Healthline – reprodução integral – ✔ Fato verificado internacionalmente
+A maioria das pessoas que se recuperam do COVID-19 tem alguma proteção contra o novo coronavírus, o SARS-CoV-2, que causa essa doença devido a anticorpos e outras respostas imunológicas.
+Algumas pesquisas sugerem que essa proteção dura pelo menos 8 meses.
+Mas as reinfecções são possíveis, mesmo com apenas alguns meses de intervalo, um grupo de médicos da Escola de Medicina da Universidade de Yale alertou hoje no BMJ Case Reports.
+Eles relataram sobre um homem na casa dos 40 anos que teve um caso grave de COVID-19 em abril passado e um caso leve 4 meses depois.
+Em abril e agosto, ele testou positivo para SARS-CoV-2. No meio, ele teve quatro testes negativos.
+Este não é o primeiro caso de alguém contraindo o novo coronavírus pela segunda vez.
+No entanto, é difícil saber quão comuns são as reinfecções porque os cientistas não as monitoram rotineiramente, e os sintomas podem ser menos perceptíveis na segunda vez.
+“Muitas reinfecções são muito leves. As pessoas nem percebem que foram infectadas novamente ”, disse Theodora Hatziioannou , PhD, virologista da Universidade Rockefeller. “Então, eu acho que [a reinfecção] realmente acontece muito.”
+Reinfecções ocorrem, mas a maioria das pessoas está protegida
+Um estudo com mais de 20.000 profissionais de saúde no Reino Unido descobriu que das mais de 6.600 pessoas que tiveram uma infecção anterior de SARS-CoV-2, apenas 44 contraíram novamente – menos de 1 por cento.
+Além disso, as pessoas que tiveram uma infecção anterior tiveram 83 por cento menos probabilidade de contrair uma infecção novamente durante os 5 meses do estudo em comparação com aquelas sem infecção anterior.
+Os resultados foram publicados em 15 de janeiro no servidor de pré-impressão medRxiv. O estudo não foi revisado por pares, então os resultados devem ser vistos com algum cuidado.
+Esses resultados, no entanto, estão de acordo com outro estudo realizado pelo Dr. Stuart C. Sealfon , professor de neurologia, neurociência e ciências farmacológicas na Escola de Medicina Icahn no Monte Sinai, e colegas.
+Este grupo acompanhou mais de 3.000 recrutas da Marinha que participaram do treinamento básico na Carolina do Sul, incluindo quase 190 recrutas que tinham uma infecção anterior de SARS-CoV-2.
+Durante as 6 semanas do estudo, cerca de 10 por cento das pessoas com uma infecção anterior contraíram outra infecção. No entanto, eles tinham 82 por cento menos probabilidade de contrair uma infecção em comparação com os recrutas sem infecção anterior.
+“O risco de reinfecção é cerca de um quinto do risco de contrair uma primeira infecção”, disse Sealfon. “Portanto, a infecção anterior oferece proteção considerável, mas a reinfecção está longe de ser rara.”
+O estudo foi publicado em 29 de janeiro no medRxiv. Também está aguardando revisão por pares.
+Algumas variantes podem contornar a proteção
+Desde que esses estudos foram realizados, surgiram novas variantes do SARS-CoV-2 que podem contornar a proteção imunológica que as pessoas ganham quando lutam contra o vírus com sucesso, pelo menos um pouco.
+“Algumas variantes [do SARS-CoV-2] podem aumentar o risco de reinfecção além do que vimos [em nosso estudo]”, disse Sealfon.
+Cada vez que esse coronavírus se replica – o que acontece muito rapidamente – há uma chance de ocorrer uma mutação. Isso é verdade para todos os vírus.
+Os cientistas estimamFonte confiável que o genoma de RNA do SARS-CoV-2 adquire cerca de duas alterações de uma única letra a cada mês, o que é cerca de metade da velocidade do vírus da gripe.
+Algumas mutações são prejudiciais ao vírus; estes são eventualmente eliminados da população de vírus ou reduzidos a níveis baixos. Outras mutações, entretanto, dão ao vírus uma vantagem sobre nosso sistema imunológico.
+Os cientistas estão atualmente de olho em três que se espalham rapidamente variantesFonte confiável identificado pela primeira vez no Reino Unido (variante B.1.1.7), África do Sul (variante B.1.351) e Brasil (variante P.1).
+Tanto a variante B.1.1.7 quanto a variante B.1.351 são pensadas para se espalharem mais fácil e rapidamente. B.1.1.7 também pode causar doenças mais graves , mas os cientistas ainda estão investigando isso.
+Outra preocupação é que certas mutações podem permitir que uma variante evite o sistema imunológico, o que pode aumentar a chance de reinfecção. Os cientistas estão realizando pesquisas para determinar a probabilidade disso.
+Em um estudo que não foi revisado por pares, os pesquisadores coletaram amostras de soro de 44 pessoas que se recuperaram do COVID-19. Essas amostras continham anticorpos produzidos por seu sistema imunológico para combater o coronavírus.
+Os pesquisadores descobriram que as amostras de soro de 21 desses participantes não foram capazes de neutralizar a variante B.1.351 em laboratório. O vírus também foi parcialmente resistente à maioria das amostras restantes.
+Os resultados destacam a possibilidade de “reinfecção com variantes antigenicamente distintas”, relataram os autores.
+Também foram documentados casos de reinfecções com uma nova variante, incluindo um homem em Israel que contraiu uma segunda infecção com a variante B.1.351 e uma pessoa que contraiu uma segunda infecção com a variante P.1.
+Tal como acontece com o homem descrito no BMJ Case Reports, o israelense apresentou sintomas leves durante sua reinfecção. Isso sugere que, mesmo quando ocorre uma reinfecção, ainda há proteção imunológica suficiente para prevenir doenças mais graves.
+Certas variantes podem reduzir a eficácia da vacina
+A capacidade de certas mutações de evadir o sistema imunológico não é apenas uma preocupação para as pessoas que tomaram COVID-19, mas também para a capacidade das vacinas COVID-19 de proteger as pessoas que nunca contraíram uma infecção.
+As vacinas COVID-19 protegem as pessoas ao preparar o sistema imunológico para combater uma infecção por SARS-CoV-2 sem realmente causar COVID-19.
+Os efeitos colaterais experimentados pelas pessoas que foram vacinadas não são sintomas da doença. Em vez disso, são um sinal de que o sistema imunológico está aprendendo a reconhecer e combater o coronavírus.
+Pesquisas realizadas em laboratório por Hatziioannou e seus colegas sugerem que certas mutações do SARS-CoV-2 na proteína do pico podem permitir que as variantes escapem da proteção oferecida pelas vacinas COVID-19.
+O SARS-CoV-2 usa a proteína spike para infectar as células do corpo, ligando-se a um receptor na superfície das células humanas denominado ACE2.
+No estudo de Hatziioannou , os pesquisadores coletaram plasma de 20 pessoas que receberam a vacina Moderna-NIAID ou Pfizer-BioNTech. Eles testaram isso contra pseudovírus contendo certas mutações da proteína spike encontradas nas novas variantes do SARS-CoV-2.
+Os anticorpos das pessoas vacinadas foram menos eficazes contra os pseudovírus que continham essas mutações em comparação com os pseudovírus com a configuração original da proteína spike.
+Este estudo foi publicado no servidor de pré-impressão bioRxiv. Hatziioannou disse que o artigo foi aceito para publicação na revista Nature.
+Os fabricantes de vacinas também testaram suas vacinas em laboratório para ver como funcionam contra as novas variantes, com resultados mistos.
+Dados preliminares sugerem que a vacina Pfizer-BioNTech funciona contra a variante B.1.1.7.
+Moderna também relatou resultados preliminares de estudos de laboratório que mostram que sua vacina protege contra a variante B.1.1.7, embora os pesquisadores tenham visto uma proteção diminuída contra a variante B.1.351.
+Nos ensaios clínicos de fase 3, os fabricantes de vacinas Johnson & Johnson e Novavax descobriram que suas vacinas tinham eficácia inferior na África do Sul , onde a variante B.1.351 se espalhou amplamente.
+Reduzir doenças graves reduzirá as mortes
+Embora o surgimento de variantes do SARS-CoV-2 que podem escapar do sistema imunológico seja preocupante, Hatziioannou destaca que o sistema imunológico tem maneiras de lidar com o vírus além dos anticorpos dos quais ele está evitando.
+Além disso, alguns dos ensaios de vacinas de fase 3, como o Moderna , mostram que as vacinas estimulam o sistema imunológico a produzir altos níveis de anticorpos, muitas vezes maiores do que aqueles adquiridos por infecção natural.
+Portanto, mesmo se uma variante reduzisse a eficácia do anticorpo em dez vezes, a vacina ainda seria eficaz contra o vírus , disse ao The New York Times Jesse Bloom , PhD, biólogo evolucionário do Fred Hutchinson Cancer Research Center em Seattle.
+Além disso, se as variantes reduzirem a eficácia geral das vacinas, as pessoas ainda podem estar protegidas contra doenças graves.
+Esse parece ser o caso da vacina Johnson & Johnson. A vacina foi 85 por cento eficaz contra doenças graves, mesmo na África do Sul.
+Os fabricantes de vacinas, porém, já estão se preparando para atualizar suas vacinas para melhor proteção contra as variantes , caso haja necessidade.
+Reduzir doenças graves – mesmo se as pessoas apresentarem sintomas leves – ainda reduzirá as hospitalizações e as mortes.
+O Dr. Eric Topol , diretor e fundador do Scripps Research Translational Institute, apontou no Twitter que, com seis testes de vacina COVID-19 de fase 3 concluídos até agora, ninguém que recebeu uma vacina morreu de COVID-19.
+“Nem uma única morte ou hospitalização nos braços da vacina devido ao COVID-19 em mais de 75.000 participantes”, disse ele.
+Hatziioannou aponta que o objetivo principal dos testes da vacina não era prevenir todas as infecções, mas reduzir doenças mais sérias.
+Para Moderna-NIAID e Pfizer-BioNTech, o objetivo primário era prevenir infecções sintomáticas. Para a Johnson & Johnson, era para prevenir doenças moderadas ou graves.
+“A proteção contra doenças graves pode ser alcançada sem interromper a transmissão”, disse Hatziioannou, mas “acho que as vacinas [COVID-19] ainda irão protegê-lo de doenças causadas por essas novas variantes”.
+A menos que comecemos a testar as pessoas aleatoriamente com mais frequência, talvez nunca saibamos quão freqüentes são as reinfecções por coronavírus. Mas Sealfon acha que basta estar ciente do risco.
+“É importante saber que há uma taxa surpreendentemente alta de reinfecções”, disse ele, “então as pessoas previamente infectadas [devem] ser vacinadas e continuar a utilizar máscaras e outros procedimentos de prevenção de infecção para se protegerem e aos outros”.
+(fonte: https://www.healthline.com)

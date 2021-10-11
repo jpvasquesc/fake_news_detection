@@ -1,0 +1,13 @@
+“As urnas eletrônicas continham um software, o Inserator, que certificava programas fraudados” diz advogada
+Em depoimento à Comissão Parlamentar de Inquérito (CPI) dos Crimes Cibernéticos da Câmara dos Deputados, os responsáveis pelo sistema de informática e desenvolvimento da urna eletrônica do Tribunal Superior Eleitoral (TSE) rebateram críticas a respeito de eventual fragilidade dos equipamentos e possibilidade de fraude.
+José de Melo Cruz, coordenador de Sistemas Eleitorais; e Giuseppe Janino, Secretário de Tecnologia da Informação do Tribunal, questionaram as supostas falhas listadas pela advogada Maria Aparecida da Rocha Cortiz , integrante do Conselho Multidisciplinar Independente (CMind), uma organização não governamental que aponta fragilidades no sistema.
+Segundo a advogada, em um caso por ela auditado em Londrina, no Paraná, o sistema do qual fazem parte as urnas eletrônicas continham um software, o Inserator, que certificava, ou seja, conferia autenticidade a programas, o que poderia permitir a inserção de programas fraudados.
+Antes das eleições do ano passado, um aluno da Universidade de Brasília (UnB), a pedido da organização, teria descoberto o Inserator ao verificar o código-fonte do programa usado pelo Tribunal.
+A entidade também aponta como brecha para eventuais fraudes o uso da internet para envio dos programas, pelo TSE, para os tribunais regionais eleitorais.
+“Bastaria uma pessoa colocar um programa dentro da urna, que ele reconheceria como oficial. A urna não está conectada à internet, mas o computador [que carrega os programas na urna] está e não tem nenhuma trava. Como a pessoa faria para inserir esse programa? Basta baixar o programa na internet”, disse Maria Aparecida Cortiz.
+Defesa do tribunal
+José de Melo Cruz rebateu as afirmações e garantiu que o processo eleitoral no Brasil é seguro. Ele apontou também que o sistema é auditável em vários pontos durante o processo de certificação. No entanto, o coordenador afirmou que os partidos não se interessam por acompanhar esse processo. Na última eleição, apenas um partido compareceu.
+“A urna está completamente isolada do mundo exterior, não é ligada à internet. Cada urna tem uma identidade própria, com identificação de que seção ela está. Não é possível dar carga em uma urna que não seja aquela que está em determinada seção”, disse.
+De acordo com Giuseppe Janino, o software mencionado pelo CMind não está em uso desde 2004 e não faz parte do sistema de validação dos votos, apenas constava como parte do histórico de programas antigos.
+assista:
+(Fonte: Agência Câmara de Notícias)

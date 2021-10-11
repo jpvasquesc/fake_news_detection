@@ -1,0 +1,12 @@
+E se o suposto hacker for alguém de dentro?
+O que são logs de software?
+(Paty Carvalho – editora e analista de sistemas)
+O log é um arquivo que traz informações sobre diversas ocorrências e eventos em um sistema. Com base nos registros gerados em arquivos de log, é possível identificar quais eventos ocorreram no ambiente e, dessa forma, entender as causas de eventuais erros ou falhas.
+De acordo com um relatório da PF, a maioria dos arquivos ‘logs’ foram apagados do sistema do TSE após a invasão ocorrida em 2018.
+Aí, caro leitor, eu lhe faço um convite ao raciocínio.
+Se eu (Patrícia) fosse uma funcionária do setor de T.I. do TSE, eu jamais apagaria algum arquivo de log após uma invasão. O motivo? É simples.
+Através desse arquivo, ficaria provado que eu (suposta funcionária do TSE) não tive qualquer relação com o tal ataque e/ou com quaisquer alterações que tivessem sido provocadas no sistema eleitoral.
+Não apagar esses arquivos seria uma espécie de ‘salvo-conduto’ para me eximir de qualquer culpa pelo ataque.
+Então, porque raios um funcionário do TSE apagaria quase todos os arquivos de logs da instituição?
+Na minha modesta opinião … vou repetir … na minha opinião … não existe um hacker ‘externo’ envolvido nesse episódio.
+Podemos estar diante de uma situação chamada friendly fire, também conhecida como fogo amigo.

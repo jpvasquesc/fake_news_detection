@@ -1,0 +1,17 @@
+O Tribunal Superior Eleitoral (TSE) abriu nesta segunda-feira (11) a etapa de inspeção dos códigos-fonte das urnas eletrônicas para a eleição de 2022.
+Essa fase dura duas semanas e faz parte dos preparativos para o Teste Público de Segurança do Sistema Eletrônico de Votação, que vai ocorrer em novembro.
+Ao todo, 39 pessoas se inscreveram para atuar na inspeção dos códigos-fonte – são os chamados “investigadores”.
+Entre as atividades que esses especialistas vão desempenhar está a elaboração de um “plano de ataque” às urnas eletrônicas.
+Esse teste de ataque deve ser enviado ao TSE até próximo dia 25. Em novembro, os mesmos investigadores retornarão à Justiça Eleitoral para executar o plano e tentar encontrar nas urnas alguma vulnerabilidade a ser corrigida.
+De acordo com José de Melo Cruz, coordenador de sistemas eleitorais do TSE, essa etapa de testes servirá para mostrar “onde podemos melhorar”.
+“[É] apenas o início do processo, que os senhores possam olhar o código fonte e depois fazer seus planos de ataque para que no evento principal os senhores possam nos atacar", disse Melo.
+O coordenador também reforçou a segurança da urna e negou que o sistema eletrônico permita alguma alteração no resultado eleitoral. Ele disse que, se alguma fraude acontecesse, seria facilmente descoberta.
+“Imaginar que a Justiça Eleitoral pode, a partir do momento da publicação do boletim da urna e na transmissão ou na totalização, alterar esse resultado, é admitir que todos os brasileiros que participam desse processo são tolos. Porque é uma fraude tola, uma fraude que qualquer pessoa, bastando procurar as partes, verifica a soma geral. Então, essa fraude que se fala na totalização e na transmissão [dos votos] é a fraude mais tola de todas e simplesmente inviável, porque ela seria descoberta facilmente”, afirmou.
+Melo acrescentou ainda que a abertura do código-fonte não impõe riscos ao processo eleitoral.
+“Quanto mais você abre, mais transparência você consegue e evita a fraude. Porque se alguém falar alguma coisa errada, outras pessoas falarão a coisa certa. Combate-se a fraude não com segredo, mas com transparência”, disse.
+Sem ideologia
+O juiz auxiliar da presidência do TSE, Sandro Vieira, ressaltou que os testes servirão para garantir à sociedade a segurança das urnas e a eficiência do sistema eleitoral brasileiro.
+"Teremos grandes descobertas que ajudarão a consolidar nossos sistemas como sistemas seguros em que nossos cidadãos podem confiar. Toda a classe política pode ter confiança de que a Justiça eleitoral não está a serviço de grupos da sociedade, mas a serviço da democracia brasileira", afirmou o juiz.
+Ele ressaltou ainda que há uma grande politização sobre as eleições, e pediu para os investigadores fazerem uma “análise puramente técnica” e que “as ideologias fiquem de lado”.
+“Afinal, o nosso trabalho não está a favor de ‘A’ ou ‘B’, mas a favor de toda a sociedade brasileira. Não trabalhamos para azul ou vermelho, não trabalhamos para direita ou para esquerda. Nós trabalhamos para construir um sistema democrático”, disse Vieira.
+VÍDEOS: notícias de política

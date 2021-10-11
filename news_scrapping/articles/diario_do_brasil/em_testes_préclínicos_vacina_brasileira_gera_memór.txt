@@ -1,0 +1,19 @@
+Em testes pré-clínicos, vacina brasileira gera memória imunológica de 12 anos
+(FONTE/CRÉDITOS: R7.COM)
+Previsão é que a vacina possa estar disponível para a população brasileira em 2022
+A Faculdade de Medicina de Ribeirão Preto (FMRP), da USP, desenvolveu a Versamune, em parceria com a Farmacore Biotecnologia e a norte-americana PDS Biotechnology.
+O consórcio entrou com pedido junto à Anvisa (Agência Nacional de Vigilância Sanitária) para iniciar os testes clínicos em humanos e espera uma resposta da agência.
+Enquanto as autorizações não chegam, é possível dizer que os testes em animais foram muito promissores.
+De acordo com Helena Faccioli, CEO da Farmacore, os testes pré-clínicos mostram que a vacina não causou danos aos animais.
+“Estudos demonstram que a Versamune é segura, não apresentou efeitos tóxico nos animais, e tem grande capacidade de ativação de anticorpos, especialmente de células T (células de defesa que ajudam a combater agentes infecciosos)”, afirmou.
+Em entrevista ao Jornal da USP, o professor do Departamento de Bioquímica e Imunologia da FMRP Celio Lopes Silva comemorou fato dos estudos mostrarem a possibilidade que a memória imunológica da célula T dure cerca de 12 anos.
+“A Versamune tem a capacidade de ativar todo o sistema imunológico que impede não só a entrada do SARS-CoV-2 para dentro das células como também matam as células já infectadas.
+creditamos que o imunizante gere uma memória imunológica de até 12 anos”, contou o professor.
+O Imunizante foi desenvolvido pela junção de uma réplica da proteína S1, que é um pedacinho da proteína spike, parte do SARS-CoV-2 responsável pela entrada do vírus nas células humanas, com uma nanopartícula.
+Essa combinação é injetada no organismo das pessoas e a expectativa é que o sistema imunológico crie anticorpos contra esse pedaço do coronavírus e bloqueie instalação dele nas células.
+Além disso, essa nanopartícula induz a ação dos linfócitos T. Então, mesmo que a proteína S1 não produza a resposta esperada, os linfócitos ativados neutralizariam o novo coronavírus.
+“Ao contrário das tecnologias de vírus e adjuvantes, essa vacina gera uma resposta imune muito específica, direcionada e poderosa, com capacidade de gerar memória imunológica no organismo e prevenir futuras reinfecções”, diz Faccioli.
+O consórcio pediu autorização à Anvisa para fazer os estudos das fases 1 e 2, que têm o objetivo de verificar a segurança e a eficácia da Versamune em humanos.
+Se aprovado pela Anvisa, o teste será feito com 360 voluntários saudáveis, com idade entre 18 e 55 anos, e em um segundo momento, de 55 a 75 anos.
+No período de 3 a 4 meses serão avaliados os efeitos colaterais e se os voluntários produziram anticorpos contra o vírus da covid.
+A partir de bons resultados, será feito o pedido para a fase 3. A última etapa de testes vai durar cerca de seis meses, e 10 mil voluntários serão testados.

@@ -1,0 +1,37 @@
+<!--
+        //DW Tracking start
+        var xttitel = encodeURIComponent (document.title);
+        var partnername = encodeURIComponent('cartacapital.com.br');
+        var sprache = '5';
+        var xtmaca = 'bra-VAM-Volltexte-JavaScript-' + partnername + '-dwde';
+        var xturl = encodeURIComponent (document.URL);
+        var xtref = encodeURIComponent (document.referrer);
+        var base = 'https://logs1279.xiti.com/hit.xiti?s=531599&s2=' + sprache + '&p=' + partnername + '::Volltexte::';
+        var ext = '&x1=1&x2=' + sprache + '&x5=' + xttitel + '&x6=1&x7=' + xturl + '&x8=' + xtmaca + '&x10=' + partnername + '::Volltexte&ref=' + xtref;
+        var track = base + xttitel + ext;
+        var xtImg=document.createElement("img");
+        xtImg.setAttribute('src', track);
+        xtImg.setAttribute('alt', 'na');
+        xtImg.setAttribute('height', '1px');
+        xtImg.setAttribute('width', '1px');
+        document.body.appendChild(xtImg);
+        //DW Tracking end
+        -->
+ 
+Jornalistas investigativos registraram ações brutais para repelir migrantes em cinco locais na fronteira entre a Bósnia e a Croácia. As gravações, feitas entre maio e setembro de 2021, documentam 11 casos em que pessoas que entraram de forma irregular são expulsas à força. Ao todo, mais de 140 pessoas teriam sido deportadas dessa forma, aparentemente sem a verificação das autoridades se elas seriam elegíveis para receber refúgio.
+De acordo com organizações de direitos humanos, houve mais de 16 mil pushbacks – como são chamados os retornos forçados de refugiados e migrantes pela fronteira – apenas na fronteira entre a Croácia e a Bósnia no ano passado. Incidentes semelhantes foram observados recentemente na fronteira entre Belarus e Polônia e são repetidamente objeto de relatórios na fronteira entre Turquia e Grécia e no alto-mar.
+Há vários anos que a expulsão violenta de migrantes irregulares é criticada por políticos e organizações de direitos humanos. “Os pushbacks são simplesmente ilegais”, diz Gillian Triggs, alta comissária adjunta da ONU para Refugiados. Mas pushback é um termo político sem uma definição jurídica clara.
+Um país pode impedir à força a entrada de pessoas?
+Em princípio, um Estado pode decidir livremente sobre a entrada de cidadãos de outro Estado. A defesa das fronteiras – e, assim, da soberania territorial – está nas mãos de cada país, e isso vale também na União Europeia. Cada governo decide quão “robusta” será a gestão de sua fronteira, mas as autoridades fronteiriças devem cumprir a legislação internacional: elas devem agir de forma adequada e manter a proporcionalidade – quer dizer, a ação do Estado não pode violar os direitos humanos.
+Nem todas as pessoas que cruzaram ilegalmente as fronteiras de um Estado podem ser empurradas de volta para o Estado vizinho: essa ação é impedida, sobretudo, pela Proibição da Expulsão Coletiva e pelo chamado Princípio da Não Devolução.
+O Princípio da Não Devolução, mencionado na Convenção de Genebra relativa ao Estatuto dos Refugiados, de 1951, está ancorado no direito internacional e válido em todo o mundo. Ele proíbe os Estados de retornar pessoas a países onde elas correm o risco de sofrer tortura ou outras violações graves de direitos humanos.
+Quais leis protegem os migrantes irregulares?
+A Convenção Europeia de Direitos Humanos (CEDH), assinada por 47 Estados, define a proibição de expulsão coletiva em seu quarto protocolo adicional. No entanto, os imigrantes ilegais não podem simplesmente invocar essa proibição para impedir sua repatriação ou para forçar sua re-entrada. Numa decisão que recebeu muita atenção, o Tribunal Europeu dos Direitos Humanos (TEDH) legalizou os pushbacks em fevereiro de 2020.
+Os autores da ação, requerentes do Mali e da Costa do Marfim, não puderam invocar a proibição de expulsões coletivas porque eles teriam usado de violência e meios irregulares para cruzar a fronteira para o enclave espanhol de Mellila, no Marrocos – embora houvesse uma passagem de fronteira legalmente aberta.
+Enquanto migrantes que entrarem ilegalmente apenas podem invocar a proibição de expulsão coletiva em tribunal, refugiados – nos termos da Convenção de Genebra – têm uma proteção jurídica muito mais ampla contra a repatriação através do Princípio da Não Devolução.
+A expulsão de requerentes de refúgio que já se encontram no território da UE viola o Princípio da Não Devolução quando a situação de vulnerabilidade deles não tiver sido verificada. “Quando alguém alcança o território de um Estado-membro da UE tem o direito de apresentar um pedido de refúgio que precisa ser analisado”, explica o especialista em direito marítimo Alexander Proelss.
+A agência da ONU para refugiados (Acnur) e especialistas em direito internacional dizem que o Princípio da Não Devolução vale já na fronteira, ou seja, mesmo que a pessoa ainda não tenha pisado no território de um país-membro da UE.
+Expulsões em alto-mar
+No caso dos pushbacks marítimos, a distância até a costa desempenha um papel fundamental. Como regra, a soberania de um Estado termina a 12 milhas náuticas de sua própria costa. Se a guarda costeira – como já aconteceu várias vezes – forçar barcos de refugiados que estão além dessa zona a dar meia-volta, isso não constitui uma violação do Princípio da Não Devolução. Porém, todos os capitães são obrigados a prestar socorro se avistarem uma embarcação em risco, não importa em que águas.
+Por fim, a entrada na UE sempre pode ser recusada. “Não há nenhuma obrigação prevista no direito marítimo internacional de que o Estado alcançado – por exemplo a Itália ou a Grécia – deva acatar que as pessoas fiquem no seu território”, explica Proelss.
+No fim das contas, seja no mar, seja em terra, poucas das pessoas afetadas por um pushback têm a disposição e os recursos para adotar medidas legais contra a sua rejeição.

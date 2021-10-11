@@ -1,0 +1,18 @@
+As páginas especiais "O voto dos deputados" e "O voto dos senadores" estão agora mais intuitivas e com um novo design. Com a ferramenta do g1 , é possível ver como se posicionaram os políticos nas principais votações da Câmara dos Deputados e do Senado.
+O voto dos deputados O voto dos senadores
+O projeto foi lançado em maio de 2019 , quando a atual legislatura completou 100 dias de trabalho. E agora foi reformulado, para permitir uma navegação ainda mais fácil e com mais funcionalidades.
+O objetivo da ferramenta é ajudar o acompanhamento do trabalho do Legislativo. Apenas resultados de votações nominais – aquelas em que o posicionamento de cada político é identificado – são incluídas no projeto.
+É possível filtrar por projeto, ver como ficou o placar da votação e saber como votou cada partido ou parlamentar.
+Também dá para escolher o político, conferir o histórico de votos e até filtrar para descobrir, por exemplo, quando ele esteve ausente.
+As páginas têm os resultados de 221 votações da atual legislatura – 107 na Câmara e 114 no Senado.
+Quando o projeto foi implementado, também foram colocadas no ar votações da legislatura anterior. São 29 na Câmara e 36 no Senado.
+As páginas são atualizadas sempre que uma votação relevante é realizada no Congresso.
+Leia a metodologia da ferramenta
+Em 2020, o g1 também lançou páginas especiais que mostraram, ao fim da legislatura, como votaram nos principais projetos das Câmaras Municipais os vereadores de quatro capitais: Rio, São Paulo, Belo Horizonte e Recife.
+Tal ferramenta foi importante para o eleitor ver como os parlamentares se posicionaram durante o mandato antes de definir o voto nas eleições municipais.
+Participam deste projeto:
+Dados e curadoria: Gabriela Caesar
+Edição: Clara Velasco, Felipe Grandin e Gabriela Caesar
+Design: Elcio Horiuchi e Guilherme Gomes
+Desenvolvimento: Antonio Lima, Igor Apolinário, Luiz Gustavo Neiva e Patrick Gomes
+Coordenação: Carlos Lemos (Desenvolvimento), Guilherme Gomes (Infografia) e Thiago Reis (Conteúdo)

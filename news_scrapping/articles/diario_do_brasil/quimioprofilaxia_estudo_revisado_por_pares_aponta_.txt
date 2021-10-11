@@ -1,0 +1,11 @@
+Quimioprofilaxia: Estudo revisado por pares aponta redução de 73% de infecções por SARS-CoV-2
+(Reprodução)
+Resumo
+A ivermectina é uma entre várias drogas potenciais exploradas por seu papel terapêutico e preventivo na infecção por SARS-CoV-2. O estudo teve como objetivo explorar a associação entre a profilaxia com ivermectina e o desenvolvimento de infecção por SARS-CoV-2 entre profissionais de saúde.
+Métodos
+Um estudo duplo cego baseado em hospital foi conduzido entre profissionais de saúde de AIIMS Bhubaneswar, Índia. Profissão, sexo, idade e data de diagnóstico foram pareados para 186 pares de caso-controle. Exposição foi definida como a ingestão de ivermectina e / ou hidroxicloroquina e / ou vitamina C e / ou outra profilaxia para COVID-19.
+Resultados
+A profilaxia com ivermectina foi realizada por 76 controles e 41 casos. A profilaxia de duas doses com ivermectina (AOR 0,27, IC de 95%, 0,15-0,51) foi associada a uma redução de 73% da infecção por SARS-CoV-2 entre os profissionais de saúde no mês seguinte.
+Conclusão
+A profilaxia de duas doses com ivermectina 300 μg / kg com um intervalo de 72 horas foi associada a uma redução de 73% da infecção por SARS-CoV-2 entre os profissionais de saúde no mês seguinte. A quimioprofilaxia tem relevância na contenção da pandemia.
+   Fonte: link 

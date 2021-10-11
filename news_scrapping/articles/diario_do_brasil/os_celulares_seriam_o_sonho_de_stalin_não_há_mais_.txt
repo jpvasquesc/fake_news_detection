@@ -1,0 +1,18 @@
+Os celulares seriam o sonho de Stalin. Não há mais privacidade. É preciso fugir de certas redes sociais
+O criador do GNU, primeiro sistema operacional aberto, Richard Stallman, em entrevista El País, se revelou preocupado com a privacidade dos usuários e da internet como um todo. Durante a entrevista, ele abordou como os celulares, hoje, minam a segurança dos dados das pessoas, citando, inclusive, casos polêmicos como o do Facebook.
+Ele conta que não tem smartphone, aceita que fotos sejam feitas somente depois de prometer a ele que elas não serão publicadas em redes sociais e afirma que suas compras sempre são pagas em dinheiro vivo. “Não gosto que rastreiem meus movimentos”, destaca.
+“A China é o exemplo mais visível de controle tecnológico, mas não o único. No Reino Unido, há mais de dez anos acompanham os movimentos dos carros com câmeras que reconhecem as placas. Isso é horrível, tirânico”
+Para ele, a GDPR europeia ( General Data Protection Regulation / Regulamento Geral sobre a Proteção de Dados) é um caminho correto para tentar solucionar ou minimizar os problemas de privacidade, mas alerta:
+“Se é possível transportar passageiros sem identificá-los, como fazem os táxis, então deveria ser ilegal identificá-los, como faz a Uber. Outra falha da GDPR é que ela não se aplica aos sistemas de segurança”.
+Sobre o software livre, Stallman o trata como sua contribuição à luta pela integridade das pessoas:
+“Ou os usuários têm o controle do programa, ou o programa tem o controle dos usuários. O programa se transforma em um instrumento de dominação”, afirma.
+Quando a internet ainda estava engatinhando, ele declarou:
+“Em 1983 decidi que queria poder usar computadores em liberdade, mas era impossível porque todos os sistemas operacionais da época eram privados. Como mudar isso? Só me restou uma solução: escrever um sistema operacional alternativo e torná-lo livre”.
+Foi assim que começou o GNU. Mais de três décadas depois, a Free Software Foundation, que ele mesmo fundou, tem dezenas de milhares de programas livres em catálogo.
+“Conseguimos liberar computadores pessoais, servidores, supercomputadores, mas não podemos liberar completamente a informática dos celulares: a maioria dos modelos não permite a instalação de um sistema livre.
+E isso é muito triste, é uma clara mudança para pior nos últimos dez anos”, diz Stallman.
+“Os celulares seriam o sonho de Stalin, porque emitem a cada dois ou três minutos um sinal de localização para seguir os movimentos do telefone”, diz.
+O motivo de incluir essa função, afirma, foi inocente: era necessário para dirigir ligações e chamadas aos dispositivos, mas tem o efeito perverso de que também permite o acompanhamento dos movimentos do portador.
+Para finalizar, Stallman disse também que o Facebook não o surpreende:
+“Sempre disse que o Facebook e seus dois tentáculos, o Instagram e o WhatsApp, são um monstro de seguir as pessoas. O Facebook não tem usuário, tem usados. É preciso fugir deles”.
+Fonte: El País
