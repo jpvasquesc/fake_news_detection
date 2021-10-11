@@ -63,7 +63,7 @@ def main():
     args = parse_input_arguments()
     
     num_links = 0
-    for page in range(1, args.p):
+    for page in range(1, args.p+1):
         html = get_article_listing_page(page)
         num_links += get_links(html)
         print("Parsed page {0}".format(page))
