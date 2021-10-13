@@ -41,4 +41,5 @@ class G1ArticlesSpider(scrapy.Spider):
         # Save text in a file
         article_file.touch(exist_ok=True)
         with open(article_file, "w", encoding="UTF-8") as f:
+            f.write("{0}\n".format(response.request.url))
             f.write("\n".join(text))

@@ -1,3 +1,4 @@
+https://www.cartacapital.com.br/mundo/quando-e-ilegal-empurrar-de-volta-migrantes-irregulares/
 <!--
         //DW Tracking start
         var xttitel = encodeURIComponent (document.title);
