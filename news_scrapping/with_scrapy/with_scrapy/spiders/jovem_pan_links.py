@@ -16,7 +16,7 @@ class JovenPanLinksSpider(scrapy.Spider):
     
     def parse(self, response):
         """
-        Parse the links to news artcles out of the HTML returned by the given web request response.
+        Parse the links to news articles out of the HTML returned by the given web request response.
         Save all links in a '.txt' file.
         Make a web request for the next page.
         """
