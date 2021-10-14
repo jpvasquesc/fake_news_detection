@@ -1,0 +1,61 @@
+Mas a BBC mostra que há erros graves em uma série de estudos chave em que os defensores do medicamento se baseiam.
+Há vários anos, a ivermectina tem sido um medicamento antiparasitário vital usado no tratamento de humanos e animais. Mas durante a pandemia, houve um clamor por parte de alguns defensores para o uso da droga para outro fim — combater a covid-19 e prevenir mortes.
+As autoridades de saúde dos EUA, do Reino Unido e da União Europeia descobriram que não há evidências suficientes para o uso do medicamento contra a covid, mas milhares de apoiadores, muitos deles ativistas do movimento antivacina, continuaram a fazer uma forte campanha para seu uso.
+Membros de grupos nas redes sociais trocam dicas sobre como conseguir o remédio, defendendo até mesmo as versões usadas em animais.
+A promoção exagerada em torno da ivermectina — com base na força da crença nas pesquisas — levou um grande número de pessoas ao redor do mundo a usar o medicamento.
+Defensores da droga apontam para uma série de estudos científicos e afirmam com frequência que as evidências estão sendo ignoradas ou acobertadas.
+Mas uma revisão destes estudos feita por um grupo de cientistas independentes levantou sérias dúvidas sobre esse conjunto de pesquisas.
+A BBC mostra que mais de um terço dos 26 principais testes do medicamento para uso no combate à covid-19 apresentam erros graves ou sinais de potencial fraude. E nenhum dos outros apresenta evidências convincentes da eficácia da ivermectina.
+Kyle Sheldrick, um dos integrantes do grupo de pesquisadores que investiga os estudos, disse que eles não encontraram "um único ensaio clínico" afirmando que a ivermectina evitou mortes por covid-19 que não continha "sinais óbvios de que tenham sido forjados ou erros tão críticos que invalidavam o estudo".
+Os principais problemas incluem:
+- Os mesmos dados de um paciente são usados ??várias vezes para pessoas supostamente diferentes;
+- Evidências de que a seleção de pacientes para grupos de teste não foi aleatória;
+- Números improváveis ??de ocorrerem naturalmente;
+- Porcentagens calculadas incorretamente;
+- Organismos locais de saúde que desconhecem os estudos.
+Todos os cientistas do grupo — Gideon Meyerowitz-Katz, James Heathers, Nick Brown e Sheldrick — têm um histórico de desmascarar a ciência duvidosa. Eles vêm trabalhando juntos remotamente de maneira informal e voluntária durante a pandemia.
+Eles formaram um grupo que analisou mais a fundo os estudos da ivermectina depois que o estudante de biomedicina Jack Lawrence detectou problemas com um estudo influente do Egito.
+Entre outras questões, continha pacientes que haviam morrido antes do início da pesquisa. E agora a revista científica que publicou o estudo se retratou.
+O grupo de cientistas independentes examinou praticamente todos os ensaios clínicos randomizados (ECR) sobre ivermectina e covid — em teoria, a evidência de mais alta qualidade — incluindo todos os estudos chave regularmente citados pelos defensores da droga.
+Os ECRs preveem que os participantes sejam escolhidos aleatoriamente para receber o medicamento que está sendo testado ou um placebo — uma simulação do medicamento sem propriedades ativas.
+A equipe também analisou seis ensaios observacionais particularmente influentes. Esse tipo de ensaio analisa o que acontece com as pessoas que já estão tomando o medicamento — portanto, pode ser influenciado pelo tipo de pessoa que opta por fazer o tratamento.
+De um total de 26 estudos examinados, havia evidência em cinco de que os dados podem ter sido forjados — por exemplo, eles continham números praticamente impossíveis ou linhas de tabela de pacientes idênticos que foram copiadas e coladas.
+Em outros cinco, foram levantadas grandes bandeiras vermelhas — por exemplo, os números não batiam, as porcentagens foram calculadas incorretamente ou os órgãos de saúde locais não estavam cientes de que haviam ocorrido.
+Além desses ensaios falhos, autores de 14 estudos não enviaram de volta dados solicitados. Os cientistas independentes afirmam que esse tipo de atitude é um sinal de possível fraude.
+A amostra de artigos de pesquisa analisados pelo grupo independente também contém alguns estudos de alta qualidade do mundo todo.
+Mas os maiores problemas estavam todos nos estudos que faziam grandes alegações sobre a ivermectina — na verdade, quanto maior a alegação em termos de vidas salvas ou infecções evitadas, maiores as preocupações que sugerem que podem ter sido forjados ou ser inválidos, descobriram os pesquisadores.
+Embora seja extremamente difícil descartar o erro humano nesses ensaios, Sheldrick, médico e pesquisador da Universidade de Nova Gales do Sul, na Austrália, acredita que é altamente provável que pelo menos alguns deles possam ter sido manipulados conscientemente.
+Descobriu-se que, em um estudo recente no Líbano, detalhes de 11 pacientes foram copiados e colados repetidamente — sugerindo que muitos dos supostos pacientes do ensaio, na verdade, não existiam.
+Os autores do estudo disseram à BBC que "o conjunto original de dados foi manipulado, sabotado ou inserido por engano no arquivo final" e que submeteram uma retratação à revista científica que o publicou
+Outro estudo do Irã parecia mostrar que a ivermectina evitou a morte de pessoas por covid.
+Mas os cientistas que o investigaram encontraram problemas. Os registros de quanto ferro havia no sangue dos pacientes continham números em uma sequência que era improvável de ocorrer naturalmente.
+E os pacientes que receberam o placebo tinham níveis muito mais baixos de oxigênio no sangue antes do início do estudo do que aqueles que receberam ivermectina. Portanto, eles já estavam mais doentes e estatisticamente mais propensos a morrer.
+Mas esse padrão se repetiu em uma ampla variedade de medições diferentes. As pessoas com mensurações "ruins" acabaram no grupo do placebo, e aquelas com mensurações "boas" no grupo da ivermectina.
+A probabilidade disso acontecer aleatoriamente em todas essas medições diferentes era muito pequena, argumenta Sheldrick.
+Morteza Niaee, que liderou o estudo do Irã, defendeu os resultados e a metodologia e discordou dos problemas atribuídos a ele, acrescentando que era "muito normal ver tal randomização" quando vários fatores diferentes eram levados em consideração e que nem todos tinham relação com o risco de covid dos participantes.
+Mas os ensaios do Líbano e do Irã foram excluídos de um artigo da Cochrane — os especialistas internacionais em revisão de evidências científicas — porque eram "estudos mal relatados". A revisão concluiu que não havia evidências de benefício por parte da ivermectina quando se trata de covid.
+O maior estudo e de maior qualidade sobre ivermectina publicado até agora é o ensaio Together da Universidade McMasters, no Canadá. Ele não encontrou nenhum benefício por parte do medicamento em caso de covid.
+A ivermectina é geralmente considerada uma droga segura, embora tenha havido alguns relatos de efeitos colaterais.
+As ligações sobre suspeitas de intoxicação por ivermectina nos EUA aumentaram muito, mas de uma base muito pequena (435 para 1.143 neste ano) — e a maioria desses casos não era grave.
+Os pacientes tiveram vômitos, diarreia, alucinações, confusão, sonolência e tremores. Mas o dano indireto pode advir de oferecer às pessoas uma falsa sensação de segurança, especialmente se elas optarem pela ivermectina, em vez de procurar tratamento hospitalar para covid ou se vacinarem.
+Patricia Garcia, uma especialista em saúde pública no Peru, disse que em um determinado momento estimou que 14 em cada 15 pacientes que ela atendia no hospital estavam tomando ivermectina — e que quando eles chegavam, estavam "muito, muito doentes".
+Grandes grupos pró-ivermectina no Facebook se transformaram em fóruns para as pessoas encontrarem dicas sobre onde comprar o medicamento, incluindo preparações destinadas a animais.
+Alguns grupos contêm regularmente postagens sobre teorias da conspiração de que estão acobertando a ivermectina, além de promover o sentimento antivacina ou encorajar os pacientes a deixar o hospital se não estiverem recebendo o medicamento.
+Esses canais coordenaram a perseguição a médicos que não prescrevem ivermectina, e insultos têm sido direcionados aos cientistas.
+O professor Andrew Hill, da Universidade de Liverpool, no Reino Unido, escreveu uma revisão positiva influente sobre a ivermectina, originalmente dizendo que o mundo deveria "se preparar, obter suprimentos, estar pronto para aprovar [o medicamento]".
+Agora ele diz que os estudos não resistem a um exame minucioso — mas depois que ele mudou de opinião, com base em novas evidências que surgiram, foi alvo de insultos.
+Um pequeno número de médicos qualificados teve uma influência exagerada no debate sobre a ivermectina no mundo.
+As opiniões do notório defensor Pierre Kory não mudaram, apesar das principais questões apontadas sobre os estudos. Ele criticou "interpretações superficiais de dados emergentes de ensaios".
+Tess Lawrie — médica especializada em gravidez e parto — fundou o British Ivermectin Recommendation Development (Bird) Group. Ela pediu uma pausa na campanha de vacinação contra covid-19 e fez alegações infundadas, sugerindo que a vacina havia causado um grande número de mortes, com base em uma leitura equivocada comum dos dados de segurança.
+Quando questionada durante um painel online sobre que evidências poderiam convencê-la de que a ivermectina não funciona, ela respondeu: "A ivermectina funciona. Não há nada que vai me convencer."
+E disse à BBC: "Os únicos problemas com a base de evidências são os esforços implacáveis ??para miná-la."
+Em todo o mundo, não foi originalmente a oposição às vacinas, mas a falta delas que levou as pessoas à ivermectina.
+O medicamento foi aprovado, recomendado ou receitado em vários momentos para covid na Índia, África do Sul, Brasil, Peru e grande parte do resto da América Latina, assim como na Eslováquia.
+No Brasil, o medicamento é defendido, sem base científica, pelo presidente Jair Bolsonaro (sem partido) como estratégia de combate ao coronavírus, dentro do chamado "kit covid" ou "tratamento precoce". No entanto, diretores de Unidades de Terapia Intensiva de hospitais de referência no Brasil ligam o 'kit Covid' a um maior risco de morte .
+As autoridades de saúde no Peru e na Índia pararam de recomendar a ivermectina em suas diretrizes de tratamento.
+Em fevereiro, a Merck — uma das empresas que fabrica o medicamento — disse que "não havia base científica para um potencial efeito terapêutico contra a covid-19".
+Na África do Sul, a droga se tornou um campo de batalha — os médicos apontam a falta de evidências, mas muitos pacientes desejam desesperadamente ter acesso, já que a distribuição da vacina tem sido irregular e problemática.
+Uma médica clínica geral do país contou o caso de uma parente, uma enfermeira registrada, que não agendou a vacina contra o coronavírus para a qual era elegível e acabou pegando o vírus.
+"Quando ela começou a piorar, em vez de buscar avaliação e tratamento adequados, ela se tratou por conta própria com ivermectina", diz ela.
+"Em vez de consultar um médico, ela continuou com a ivermectina e recebeu oxigênio em casa. Quando eu soube como seus níveis de saturação de oxigênio estavam baixos (66%), implorei à filha dela que a levasse ao pronto-socorro."
+"No começo, elas estavam relutantes, mas as convenci a ir. Ela faleceu algumas horas depois."

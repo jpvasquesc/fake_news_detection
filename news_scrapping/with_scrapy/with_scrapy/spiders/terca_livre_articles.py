@@ -12,7 +12,6 @@ class TercaLivreArticlesSpider(scrapy.Spider):
     name = 'terca_livre_articles'
     allowed_domains = ['tercalivre.com.br']
 
-    # start_urls = ["https://tercalivre.com.br/diretor-de-jornalismo-do-terca-livre-fala-de-iniciativa-artigo-220/"]
     # Get links to the news articles from which the text will be scrapped
     links_path = Path("../../../links/terca_livre.txt")
     links_path.touch(exist_ok=True)
