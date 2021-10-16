@@ -50,7 +50,7 @@ def main():
     pickle.dump(best_model["model"], open(Path("./model.sav"), 'wb'))
 
 
-def download_nltk_corpus():
+def download_nltk_corpus() -> None:
     """
     Download nltk packages that are required to build the model
     """
@@ -60,7 +60,7 @@ def download_nltk_corpus():
     print("\n-------")
 
 
-def get_training_texts():
+def get_training_texts() -> pd.DataFrame:
     """
     Get the training text from "./training_data" and classify them as "fake" or "real".
 
@@ -92,14 +92,14 @@ def get_training_texts():
     return df
     
 
-def build_best_model(X_train, y_train, seed):
+def build_best_model(X_train: pd.DataFrame, y_train: pd.DataFrame, seed: int) -> dict:
     """
     Test different estimators with multiple paremeters and return the one with the highest accuracy
 
     Args:
-        X_train : Training features 
-        y_train : Training outcome
-        seed: random_state seed for reproducibility
+        X_train[pd.Dataframe] : Training features 
+        y_train[pd.Dataframe] : Training outcome
+        seed[int]: random_state seed for reproducibility
         
     Returns:
         dict: A dict of the best model and it's accuracy
