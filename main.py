@@ -31,7 +31,7 @@ def main():
     print(predictions)
     
     
-def parse_arguments():
+def parse_arguments() -> argparse.Namespace:
     """
     Create a command-line menu for this script using 'argparse'.
     """
@@ -41,12 +41,13 @@ def parse_arguments():
     input_methods = parser.add_mutually_exclusive_group(required=True)
     input_methods.add_argument('-t', '--text', dest='text', type=str, help="Input text from the command line")
     input_methods.add_argument('-f','--file', dest='file', type=str, help="Input text from one or more .txt files")
-    
+
     return parser.parse_args()
 
 
-def get_text_from_file(files):
+def get_text_from_file(files: list) -> pd.DataFrame:
     """
+    Check if input is files are correct.
     Get the text inside each .txt file in 'files'.
 
     Args:
@@ -56,15 +57,26 @@ def get_text_from_file(files):
         pd.Dataframe: DataFrame of texts, with filename as index
     """
     df = pd.DataFrame(columns={"file": [], "text": []})
+    
     for file in files:
+
         file_path = Path(file)
+        file_name = file_path.stem
+        file_extension = file_path.name[-4:]
+        
+        # 'file' has .txt extension
+        if file_extension != ".txt":
+            raise IOError("Input file '{0}' has an extension different from .txt".format(file_path))
+    
         with open(file_path, "r", encoding="UTF-8") as f:
-            row = {"file": file_path.stem, "text": f.read()}
+            text = f.read()
+            row = {"file": file_name, "text": text}
             df = df.append(row, ignore_index = True)
+            
     return df.set_index("file")
     
     
-def classsify_input_text(text_df):
+def classsify_input_text(text_df: pd.DataFrame) -> pd.DataFrame:
     """
     Utilize the ML model to predict if the text is 'fake' or 'real'.
 
