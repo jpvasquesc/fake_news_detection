@@ -5,7 +5,16 @@ This project was built in two weeks as the final project for the ['Programing fo
 
 I have taken this oportunity to learn about natural language processing (NLP) in machine learning, an area which I'm very interested but don't have experience in.
 
-## Index
+## Table of contents
+- [fake_news_detection](#fake-news-detection)
+  * [Usage](#usage)
+  * [Making the project](#making-the-project)
+    + [Planning](#planning)
+    + [Creating a training dataset](#creating-a-training-dataset)
+    + [Building the model](#building-the-model)
+  * [Conclusions](#conclusions)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Usage
 This project was built in Python 3.9.7 and therfore may not work in older version of Python.\
@@ -15,12 +24,12 @@ The model can be utilized through the 'main.py' file.\
 The input can be given directly through the command line or using one or more '.txt' files.\
 All the input files **must** have the '.txt' extension or an error will be raised. 
 
- **Command line**:\
-  python main.py -t "your text here"
+   **Command line**:\
+       python main.py -t "your text here"
 
- **Text files**:\
-  python main.py -f ./your_text.txt\
-  python main.py -f ./*.txt
+   **Text files**:\
+       python main.py -f ./your_text.txt\
+       python main.py -f ./*.txt
 
 ## Making the project
 ### Planning
@@ -30,7 +39,7 @@ To create such a model there are two major factors to be considered:
 In this model I have chosen to utilize text media disseminated by digital news articles.
 
 ### Creating a training dataset
-The training dataset was collected, utilizing web scrapping, from the following websites:
+The [training dataset](https://github.com/jpvasquesc/fake_news_detection/tree/main/training_data) was [collected](https://github.com/jpvasquesc/fake_news_detection/tree/main/news_scrapping) utilizing web scrapping from the following websites:
 * [G1](https://g1.globo.com/)
 * [Correio Braziliense](https://www.correiobraziliense.com.br/)
 * [Carta Capital](https://www.cartacapital.com.br/)
