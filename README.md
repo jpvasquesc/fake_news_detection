@@ -6,13 +6,12 @@ This project was built in two weeks as the final project for the ['Programing fo
 I have taken this oportunity to learn about natural language processing (NLP) in machine learning, an area which I'm very interested but don't have experience in.
 
 ## Table of contents
-- [fake_news_detection](#fake-news-detection)
-  * [Usage](#usage)
-  * [Making the project](#making-the-project)
-    + [Planning](#planning)
-    + [Creating a training dataset](#creating-a-training-dataset)
-    + [Building the model](#building-the-model)
-  * [Conclusions](#conclusions)
+* [Usage](#usage)
+* [Making the project](#making-the-project)
+  + [Planning](#planning)
+  + [Creating a training dataset](#creating-a-training-dataset)
+  + [Building the model](#building-the-model)
+* [Conclusions](#conclusions)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
