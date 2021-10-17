@@ -11,7 +11,9 @@ I have taken this oportunity to learn about natural language processing (NLP) in
 This project was built in Python 3.9.7 and therfore may not work in older version of Python.\
 All the third-party packages necessary can be found in the 'requirements.txt' file. Use 'pip install requirements.txt' to install them. 
 
-The model can be utilized through the 'main.py' file.\ The input can be given directly through the command line or using one or more '.txt' files.\ All the input files **must** have the '.txt' extension or an error will be raised. 
+The model can be utilized through the 'main.py' file.\
+The input can be given directly through the command line or using one or more '.txt' files.\
+All the input files **must** have the '.txt' extension or an error will be raised. 
 
 Command line:\
 python main.py -t "your text here"
@@ -39,9 +41,13 @@ The training dataset was collected, utilizing web scrapping, from the following 
 
 ### Building the model
 I choose to use the "Bag-of-words" model. The text was processed utilizing a pipeline with the NLP following methods:
-* Removal of stopwords: Removal of common words and punctuation. I utilized the NLTK portuguese stopwords collection and the Python punctuation collection.
+* Removal of stopwords:
 
-* Tokenazation and word count: Transform words in unique tokens for better processing and count the frequencie of each token. This was done utilizing sklearn.feature_extraction.text.CountVectorizer.
+..Removal of common words and punctuation. I utilized the NLTK portuguese stopwords collection and the Python punctuation collection.
+
+* Tokenazation and word count
+
+..Transform words in unique tokens for better processing and count the frequencie of each token. This was done utilizing sklearn.feature_extraction.text.CountVectorizer.
 
 * Frequency weighting: 
 
