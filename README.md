@@ -43,11 +43,11 @@ The training dataset was collected, utilizing web scrapping, from the following 
 I choose to use the "Bag-of-words" model. The text was processed utilizing a pipeline with the NLP following methods:
 * Removal of stopwords:
 
- Removal of common words and punctuation. I utilized the NLTK portuguese stopwords collection and the Python punctuation collection.
+  Removal of common words and punctuation. I utilized the NLTK portuguese stopwords collection and the Python punctuation collection.
 
-* Tokenazation and word count
+* Tokenazation and word count:
 
- Transform words in unique tokens for better processing and count the frequencie of each token. This was done utilizing sklearn.feature_extraction.text.CountVectorizer.
+  Transform words in unique tokens for better processing and count the frequencie of each token. This was done utilizing sklearn.feature_extraction.text.CountVectorizer.
 
 * Frequency weighting: 
 
