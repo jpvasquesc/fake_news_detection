@@ -80,15 +80,19 @@ This project is not novel and similar projects can be found, such as [FakeCheck]
 As this was my first foray in NLP and an assignment for one of my undegraduate classes, I choose to build both the training dataset and the model from scratch. Here are some considerations that could improve the accuaracy of the model.
 
 * Utilizing a better training dataset
+
    The training dataset used was fairly small as I had a limited amount of time to collect, clean and manually classify each text. Having a bigger or more refined dataset would probally increase the accuracy of the model. 
 
    The dataset could also be more diverse and better balanced. Some of the sources had only 'real' or 'fake' classified texts. Considering that different sources will have different writing style, this could lead to an overfitting problem. This could be resolved with the same amount of 'real' and 'fake' texts from each source.
    
 * Using other preprocessing techniques
+
    In this model's pipeline, the only preprocessing in the input is the removal of stopwords, tokenazation and normalization. I've tested using stemming with RSLP but ir resulted in a lower accuracy. Still there are other techinques that could be utilized, such as Lemmatization, which I have not tested.
 
 * Selecting more features from the text
+
    This model only utilizes the 'Bag-of-words' representation but there are other ways to select features with NLP such as POS Tags, semantic classes, pauses, emotiveness, etc.
 
 * Testing other classification estimators
+
    As I'm new to the field of NLP and ML, I only tested five different estimators with a limited of parameters permutations. There may be other estimators, such as neural networks, or combinations of parameters that yield a model with an higher accuracy.
