@@ -1,6 +1,6 @@
 """
 This script builds a machine learning model to predict if a news article, in the portuguese language, is real or fake.
-To do this it utilizes natual language processing (NLP) methods such as tokenazition, stemming and removal of stop-words.
+To do this it utilizes natual language processing (NLP) methods such as tokenazition and removal of stop-words.
 It compares the accuracy of prediction utilizing different classification estimators from the sklearn library and chooses the one with the best score.
 Estimators:
     - SVM
@@ -56,8 +56,7 @@ def download_nltk_corpus() -> None:
     """
     print("Download required nltk packages:")
     nltk.download('stopwords')
-    nltk.download('rslp')
-    print("\n-------")
+    print("\n-------\n")
 
 
 def get_training_texts() -> pd.DataFrame:
@@ -88,7 +87,7 @@ def get_training_texts() -> pd.DataFrame:
         else:
             raise ValueError("Found no articles at {0}".format(articles_dir))
 
-    print("\n-------")
+    print("\n-------\n")
     return df
     
 
@@ -148,7 +147,7 @@ def build_best_model(X_train: pd.DataFrame, y_train: pd.DataFrame, seed: int) ->
             best_model["accuracy"] = gs_clf.best_score_
             best_model["model"] = gs_clf.best_estimator_
     
-    print("\n-------")
+    print("\n-------\n")
     return best_model
 
 
