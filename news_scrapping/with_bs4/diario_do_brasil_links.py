@@ -32,7 +32,6 @@ def get_article_listing_page(page: int, security_token: str):
     """
     Get the HTML for the post listing webpage.
     """
-    
     form_data = {'action': 'load_more',
                     "class": r"Essential_Addons_Elementor\Elements\Post_Grid",
                     "args": "orderby=date&order=desc&ignore_sticky_posts=1&post_status=publish&posts_per_page=32&offset=15&post_type=post",

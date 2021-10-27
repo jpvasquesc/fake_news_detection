@@ -9,7 +9,6 @@ def main():
     """
     Classify input text as 'fake' or 'real' using the pre-trained machine learning model.
     """
-    
     # Get command-line arguemnts
     args = parse_arguments()
     
@@ -86,7 +85,6 @@ def classsify_input_text(text_df: pd.DataFrame) -> pd.DataFrame:
     Returns:
         pd.Dataframe: DataFrame with the prediction for each text
     """
-    
     # Load ML model
     model_path = Path("./model.sav")
     model = pickle.load(open(model_path, "rb"))
