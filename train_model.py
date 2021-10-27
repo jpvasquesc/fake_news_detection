@@ -69,7 +69,6 @@ def get_training_texts() -> pd.DataFrame:
     Returns:
         pd.Dataframe: DataFrame with all texts('text' column) and their classification('label' column)
     """
-    
     print("Fetching training data:")
     df = pd.DataFrame(columns={"text": [], "label": []})
         
@@ -103,7 +102,6 @@ def build_best_model(X_train: pd.DataFrame, y_train: pd.DataFrame, seed: int) ->
     Returns:
         dict: A dict of the best model and it's accuracy
     """
-    
     print("Testing best model:")
     best_model= {"accuracy": 0, "model": 0}
 
