@@ -34,7 +34,7 @@ def get_article_listing_page(page: int, security_token: str):
     """
     
     form_data = {'action': 'load_more',
-                    "class": "Essential_Addons_Elementor\Elements\Post_Grid",
+                    "class": r"Essential_Addons_Elementor\Elements\Post_Grid",
                     "args": "orderby=date&order=desc&ignore_sticky_posts=1&post_status=publish&posts_per_page=32&offset=15&post_type=post",
                     "page": str(page),
                     "page_id": "245827",
