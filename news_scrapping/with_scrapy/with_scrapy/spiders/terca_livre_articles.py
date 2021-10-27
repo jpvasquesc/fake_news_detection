@@ -37,7 +37,7 @@ class TercaLivreArticlesSpider(scrapy.Spider):
         # Get text file name from article's title
         title = response.css("title::text").get().split("|")[0].strip()
         underscore_separated = "_".join(title.split(" ")).lower()
-        file_name = re.sub('\W+', '', underscore_separated)[0:50] # arbritary limit
+        file_name = re.sub(r'\W+', '', underscore_separated)[0:50] # arbritary limit
         article_file = Path("../../../articles/terca_livre/{0}.txt".format(file_name))
 
         # Save text in a file

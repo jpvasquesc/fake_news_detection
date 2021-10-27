@@ -35,7 +35,7 @@ class FolhaPoliticaArticlesSpider(scrapy.Spider):
         # Get text file name from article's title
         title = response.css(".post-title::text").get().lower().rstrip()
         underscore_separated = "_".join(title.split(" "))
-        file_name = re.sub('\W+', '', underscore_separated)[0:50] # arbritary limit
+        file_name = re.sub(r'\W+', '', underscore_separated)[0:50] # arbritary limit
         article_file = Path("../../../articles/folha_politica/{0}.txt".format(file_name))
 
         # Save text in a file
