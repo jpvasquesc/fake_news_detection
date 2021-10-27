@@ -69,7 +69,6 @@ def main():
     """
     Get the links for posts listed in the first 'PAGES' pages from the webpage "https://diariodobrasil.org/todas-materias/".
     """
-    
     args = parse_input_arguments()
     
     num_links = 0
