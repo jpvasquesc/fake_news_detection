@@ -45,7 +45,7 @@ def get_article_listing_page(page: int, security_token: str):
     page_request = requests.post("https://diariodobrasil.org/wp-admin/admin-ajax.php", data=form_data)
     response = page_request.json()
 
-    if type(response) == str:
+    if type(response) is str:
         html = BeautifulSoup(response, features="lxml")
         return html
     raise ValueError("Wrong security token. Please check if when you click the 'ver mais...' button, more posts are loaded or not.")
